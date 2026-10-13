@@ -1,3 +1,1 @@
-aiohttp
-httpx
-PyQt5
+First, we need to install the latest version of Python on your computer. Next, we install these helper extensions: aiohttp, httpx, and PyQt5. Finally, we just copy the script and run it in Python.
